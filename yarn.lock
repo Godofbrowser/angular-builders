@@ -98,7 +98,7 @@
     "@angular-devkit/architect" "0.1303.5"
     rxjs "6.6.7"
 
-"@angular-devkit/core@13.3.5", "@angular-devkit/core@^12.2.10", "@angular-devkit/core@^13", "@angular-devkit/core@^13.0.0":
+"@angular-devkit/core@13.3.5", "@angular-devkit/core@^12.2.17", "@angular-devkit/core@^13", "@angular-devkit/core@^13.0.0":
   version "13.3.5"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-13.3.5.tgz#c5f32f4f99b5cad8df9cf3cf4da9c4b1335c1155"
   integrity sha512-w7vzK4VoYP9rLgxJ2SwEfrkpKybdD+QgQZlsDBzT0C6Ebp7b4gkNcNVFo8EiZvfDl6Yplw2IAP7g7fs3STn0hQ==
@@ -110,7 +110,7 @@
     rxjs "6.6.7"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@13.3.5", "@angular-devkit/schematics@^12.2.10", "@angular-devkit/schematics@^13":
+"@angular-devkit/schematics@13.3.5", "@angular-devkit/schematics@^12.2.17", "@angular-devkit/schematics@^13":
   version "13.3.5"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-13.3.5.tgz#9cb03ac99ee14173a6fa00fd7ca94fa42600c163"
   integrity sha512-0N/kL/Vfx0yVAEwa3HYxNx9wYb+G9r1JrLjJQQzDp+z9LtcojNf7j3oey6NXrDUs1WjVZOa/AIdRl3/DuaoG5w==
@@ -1384,15 +1384,15 @@
     tunnel-agent "^0.6.0"
     uuid "^8.3.2"
 
-"@cypress/schematic@1.6.0":
-  version "1.6.0"
-  resolved "https://registry.npmjs.org/@cypress/schematic/-/schematic-1.6.0.tgz#7178702e94ec717b7ffc6b18b4d9ff7cd8a48d44"
-  integrity sha512-ENHceK21AANBCthaiQ4gJGEvHsqJ9wS3b9PjnlD4MKOMzqwU/WMrJAs/Xnxa6PGh3btB2w0xNN+0beeaf0KiCA==
+"@cypress/schematic@1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@cypress/schematic/-/schematic-1.7.0.tgz#66343138f7f94843fa24f0c492a5a83408a7a047"
+  integrity sha512-CouQrVlZ+uHVVBQtmNoMYU9LyoSAmQTOLDpVjrdTdMPpJH1mWnHCL5OCMt+FZLR+43KRiWEvDUjNqSza11oGsQ==
   dependencies:
     "@angular-devkit/architect" "^0.1202.10"
-    "@angular-devkit/core" "^12.2.10"
-    "@angular-devkit/schematics" "^12.2.10"
-    "@schematics/angular" "^12.2.10"
+    "@angular-devkit/core" "^12.2.17"
+    "@angular-devkit/schematics" "^12.2.17"
+    "@schematics/angular" "^12.2.17"
     jsonc-parser "^3.0.0"
     rxjs "~6.6.0"
 
@@ -2572,7 +2572,7 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@schematics/angular@13.3.5", "@schematics/angular@^12.2.10", "@schematics/angular@^13":
+"@schematics/angular@13.3.5", "@schematics/angular@^12.2.17", "@schematics/angular@^13":
   version "13.3.5"
   resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-13.3.5.tgz#052e52cd6a58291a5566ddabb75d8c074cfe63b1"
   integrity sha512-1Ovx0cq72ZaNCyTyRD8ebIwUzpqhEH9ypWF05bfBLq3J0LlZgewIMhPJSxKmwRC3NQB5DZIYEvD0uhzBIuHCCA==
